@@ -1,2 +1,2 @@
-# SingletonState
+------->https://jhbbjhafhash.github.io/SingletonState/<-------
  
